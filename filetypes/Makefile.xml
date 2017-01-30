@@ -11,7 +11,7 @@
       <option name="HAS_PARENS" value="true" />
       <option name="HAS_STRING_ESCAPES" value="false" />
     </options>
-    <keywords keywords="ifeq;ifneq;else;endif;define;ifdef;ifndef" ignore_case="true" />
+    <keywords keywords="ifeq;ifneq;else;endif;define;endef;ifdef;ifndef" ignore_case="true" />
     <keywords2 keywords=".default_goal;.features;.include_dirs;.phony;.recipeprefix;.variables;all;clean;mostlyclean;distclean;realclean;clobber;install;print;tar;shar;dist;TAGS;check;test" />
     <keywords3 keywords="foreach;call;eval;include;subst;patsubst;strip;findstring;filter;filter-out;sort;word;wordlist;words;firstword;lastword;dir;notdir;suffix;basename;addsuffix;addprefix;join;wildcard;realpath;abspath;or;and;file;origin;flavor;error;warning;info;shell;" />
   </highlighting>
